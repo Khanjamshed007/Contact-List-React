@@ -1,4 +1,4 @@
-Hosted link :https://ornate-liger-81650a.netlify.app/
+Hosted link :https://contact-list-react-green.vercel.app/
 
 
 
