@@ -6,35 +6,35 @@ First of all create react project using create-react-app app_name
 
 Delete the unnecessary files
 
-folder structure
+# folder structure
 ![Screenshot (32)](https://github.com/Khanjamshed007/Contact-List-React/assets/94047780/4bbd93af-3846-4d47-9bb5-499d76386177)
 
 
 
-HomePage
+# HomePage
 
 
 ![Screenshot (33)](https://github.com/Khanjamshed007/Contact-List-React/assets/94047780/09f1bcc4-8799-4e83-8747-fa8636d0899e)
 
-Add Contact Page
+# Add Contact Page
 
 ![Screenshot (34)](https://github.com/Khanjamshed007/Contact-List-React/assets/94047780/ab4f0a5f-2b85-4db0-873c-dff06c74880a)
 
 
-Form not Fill show Error
+# Form not Fill show Error
 ![Screenshot (35)](https://github.com/Khanjamshed007/Contact-List-React/assets/94047780/17ef3572-cb6e-441e-9f78-4bf21e1c489f)
 
 
-Contact Added
+# Contact Added
 
 ![Screenshot (36)](https://github.com/Khanjamshed007/Contact-List-React/assets/94047780/faa929d8-aa14-44f6-8e20-cb7ede3ea3dd)
 
-Update Contact
+# Update Contact
 ![Screenshot (37)](https://github.com/Khanjamshed007/Contact-List-React/assets/94047780/4f4ab33b-c6d3-4b0d-84e0-3e4df2e3da9b)
 
 ![Screenshot (38)](https://github.com/Khanjamshed007/Contact-List-React/assets/94047780/0d470f17-b9e6-42c6-a2ee-cdaf27191ac5)
 
-Delete Contact
+# Delete Contact
 
 ![Screenshot (39)](https://github.com/Khanjamshed007/Contact-List-React/assets/94047780/e81cdfb5-4fa3-454a-861f-023b73625455)
 
